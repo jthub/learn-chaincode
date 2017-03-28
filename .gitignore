@@ -5,6 +5,7 @@ node_modules
 # compiled chaincode
 start/start
 finished/finished
+tutorial/tutorial
 
 # IntelliJ
 .idea
